@@ -1,1 +1,0 @@
-print("Bishkek, Naryn")
