@@ -1,0 +1,1 @@
+a = {x: len(x) for x in ["Bishkek", "Astana"]}
